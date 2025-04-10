@@ -53,7 +53,7 @@ A estrutura de pastas do projeto está organizada da seguinte forma:
 │   │       ├── CustomerForm.jsx
 │   │       └── CustomerDetail.jsx
 │   └── package.json
-└── banco.sql
+└── crud_system.sql
 ```
 
 ## Instalação e Execução
